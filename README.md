@@ -46,7 +46,7 @@ Personal portfolio showcasing skills, projects, and achievements.
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/CalebSamraj14)  
 
 📧 calebsamraj0@gmail.com  
-📱 +91 63801 93738  
+ 
 
 ---
 

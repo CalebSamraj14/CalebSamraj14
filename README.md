@@ -19,13 +19,6 @@ Motivated ECE student with experience in front-end development, seeking to creat
 
 ---
 
-## 🎓 Education  
-- **B.E. Electronics & Communication Engineering** — Saveetha Engineering College, Chennai *(Oct 2022 – May 2026)* — GPA: 7.5/10  
-- **HSC (12th Grade):** 80%  
-- **SSLC (10th Grade):** 98%  
-
----
-
 ## 📌 Projects & Portfolio
 
 ### [Expense Tracker Web App](https://github.com/CalebSamraj14/expense-tracker)  

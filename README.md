@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb Sam Raj D</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Front-End Developer | AI Enthusiast</h3>
+<h3 align="center">Electronics & Communication Engineering Student | Front-End Developer | CORE JAVA</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/caleb-samraj-d-b08562321"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>

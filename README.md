@@ -23,15 +23,15 @@ Motivated ECE student with experience in front-end development, seeking to creat
 
 ### [Expense Tracker Web App](https://github.com/CalebSamraj14/expense-tracker)  
 A React-based expense tracker featuring CRUD operations, dark mode, filtering, charts via Recharts, and persistent data via localStorage.  
-**Live Demo:** [calebsamraj14.github.io/expense-tracker](https://calebsamraj14.github.io/expense-tracker)
+**Live Demo:** [expense-tracker](https://calebsamraj14.github.io/expense-tracker)
 
 ### [Mindful Productivity Dashboard](https://github.com/CalebSamraj14/Mindful-Productivity-Dashboard)  
 A web-based productivity dashboard to track tasks and boost mindfulness.  
-**Live Demo:** [calebsamraj14.github.io/Mindful-Productivity-Dashboard](https://calebsamraj14.github.io/Mindful-Productivity-Dashboard/)
+**Live Demo:** [Mindful-Productivity-dashboard](https://calebsamraj14.github.io/Mindful-Productivity-Dashboard/)
 
 ### [Portfolio Website](https://github.com/CalebSamraj14/caleb-portfolio)  
 Personal portfolio showcasing skills, projects, and achievements.  
-**Live Demo:** [calebsamraj14.github.io/caleb-portfolio](https://calebsamraj14.github.io/caleb-portfolio/)
+**Live Demo:** [caleb-portfolio](https://calebsamraj14.github.io/caleb-portfolio/)
 
 ---
 

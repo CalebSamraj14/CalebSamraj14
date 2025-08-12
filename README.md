@@ -7,7 +7,7 @@
 ---
 
 ## 💡 Career Objective  
-Motivated ECE student with experience in front-end development, seeking to create scalable and user-friendly web apps. Proficient in **Java**, **React**,**html**, **css** and **JavaScript**.
+Motivated ECE student with experience in front-end development, seeking to create scalable and user-friendly web apps. Proficient in **Java**, **React.js**,**html**, **css** and **JavaScript**.
 
 ---
 

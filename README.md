@@ -9,7 +9,7 @@ Passionate about building intelligent applications using Python, Machine Learnin
 </p>
 
 <p align="center">
-<a href="https://dashboard-eta-wheat-69.vercel.app/">
+<a href="https://my-portfolio-hazel-ten-23.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
 </a>
 <a href="https://linkedin.com/in/caleb-samraj-d-b08562321">
